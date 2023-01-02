@@ -17,3 +17,9 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+
+gem "jekyll-feed", "~> 0.17.0"
+
+gem "jekyll-avatar", "~> 0.8.0"
+
+gem "jemoji", "~> 0.13.0"

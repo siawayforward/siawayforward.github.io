@@ -14,41 +14,41 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Los_Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Always Sia Strike # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: My online learning home!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Sia's data analytics engineering and growth online hub.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://siawayforward.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: siawayforward # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: siawayforward # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com             # change to your email address
+  name: Sia Seko
+  email: siawayforward.projects@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://twitter.com/siawayforward      # change to your twitter homepage
+    - https://github.com/siawayforward       # change to your github homepage
+    # Uncomment below to add more social links bla bla
+    - https://siawayforward.github.io/assets/Resume_2022.pdf #resume
+    - https://www.linkedin.com/in/sia-seko
 
-google_site_verification:               # fill in to your verification string
+google_site_verification:  # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -71,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: dark  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/siawayforward.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -117,7 +117,7 @@ assets:
 pwa:
   enabled: true   # the option for PWA feature
 
-paginate: 10
+paginate: 7
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -198,3 +198,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-feed
+  - jekyll-avatar
+  - jemoji
