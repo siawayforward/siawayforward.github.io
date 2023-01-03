@@ -33,7 +33,7 @@ Case in point: I love Java! Credit to two wonderful women who introduced me to i
 
 All of this to say, if you enjoy doing something in programming or data, don't be afraid to leap into those tools. A data analyst may just enjoy making lovely visualizations and R, PowerBI, and Tableau with a little SQL and Python may be where destiny lies. Go for it!
 
-![Tamar Braxton telling you to getcha life!](https://media1.tenor.com/images/c0c1ec9a755e74fdae8747c89be90247/tenor.gif?itemid=13772574)
+![Tamar Braxton telling you to getcha life!](/assets/img/tamar-getcha-life.gif)
 
 Do not limit your job search by clinging to what you know (remember, learning is good). Expand your knowledge where your interests are, and the worst that can happen is you can apply for more jobs! I do realize that this is a somewhat priviledged take to have, given that not everyone can afford to wait too long to earn money on a career pivot. So here is where we remember not to reinvent the wheel and learn from other practitioners with a shared experience and/or background.
 

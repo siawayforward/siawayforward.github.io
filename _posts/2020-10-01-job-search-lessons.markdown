@@ -46,7 +46,7 @@ You learn pretty quickly that just submitting 10 job applications a day and hopi
 - Do your research about the company, and if you find work from that team even better! You can bring it up to the person you are reaching out to. This sounds like another duh moment, but it requires perseverance so a lot of us don't do it consistently
 - Write unique cover letters. The best advice I ever got is to write a letter you would want to read - in your voice, not the telemarketer version of you that would work for a televangelist or the authentic self tech voice (sigh). Nobody wants to meet that you. They want to meet THE you!
 
-![Jennifer Lewis getting her dance on while watching a RuPaul's Drag Race lip sync](https://imagesvc.meredithcorp.io/v3/mm/gif?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2019%2F01%2FDec-17-2018-15-14-54.gif)
+![Jennifer Lewis getting her dance on while watching a RuPaul's Drag Race lip sync](/assets/img/jenifer-lewis-drag-race-dance.gif)
 
 ### Ask for Feedback Proactively
 
@@ -68,7 +68,7 @@ Pretty please with sugar on top, practice your interviews before you have them. 
 
 And one more thing that was once again, courtesy of a Twitter friend (these are real) who helped me practice for interviews; [use the STAR method](https://www.themuse.com/advice/star-interview-method){:target="_blank"}. Managers know it exists, and it would be nice for you to flex on them. *Manager person, I know you know this. I want you to know that I know that you know this too!*
 
-![Phoebe from Friends explaining how she knows that they know that she knows. A mess](https://media1.tenor.com/images/31e0b6d5cc930fd07f0d220caa49f753/tenor.gif?itemid=4557898)
+![Phoebe from Friends explaining how she knows that they know that she knows. A mess](/assets/img/phoebe-they-know-we-know.gif)
 
 ### Network for the Sake of It
 
