@@ -11,6 +11,8 @@ This is very much a plateau kinda post, not about the climb. I’d like to talk 
 
 I don’t know if any of that made sense, or if it helps you untangle what’s going on with you, but sharing is caring so here goes everything and nothing
 
+![an image of the littlest girl from the Despicable Me movies, Agnes - being scared during her bedtime and ducking under the covers"](/assets/img/boo-hide-shy-girl.gif)
+
 ## What was the Reason?
 
 For context, I’m a data professional with eight years of experience who’s worked in small to middle size companies, start-ups and family businesses, research and industry. All the in-between, you get it. Currently, I work in the most technical role I’ve ever had. If you’ve worked with agile teams, there are practices like sprint planning, grooming, picking up work in the form of tickets, and stand-up sessions. These are very prominent in my role. When I joined, I was the only engineer on the team so my curiosity drove the day and mission. Asking questions to gain as much domain and institutional knowledge as possible to start building was a gold mine.
@@ -33,7 +35,7 @@ Shout out to people who want you to win a.k.a my teammates. Here are the tips I�
 
 ### Saying No
 
-I told you this is the most technical role I’ve had right? And everyone I work with is at least a senior engineer? Yes. So I have fallen into the trap of wanting to prove myself (actually to myself more than to others sometimes). When I see folks on other teams trying to solve something I may be able to help with, I get engrossed. Recently we had to add Java dependencies to our repository along with incorporating some Java code and guess who went to revisit Angie Jones’ course so they could understand every line of code added by a staff engineer? This girl. Was it interesting? Yes. Did I need to do all that during that sprint? No, not really. Now, if I see a curiosity trap, I look at my checklist, talk to inner Sia about how much time we have, and respond accordingly. If I’m not involved in the original solution, I can revisit it later, ask questions, and maybe even suggest a refactor (rare in my case, but who doesn’t like refactoring!)
+I told you this is the most technical role I’ve had right? And everyone I work with is at least a senior engineer? Yes. So I have fallen into the trap of wanting to prove myself (actually to myself more than to others sometimes). When I see folks on other teams trying to solve something I may be able to help with, I get engrossed. Recently we had to add Java dependencies to our repository along with incorporating some Java code and guess who went to revisit [Angie Jones’ course](https://testautomationu.applitools.com/java-programming-course/) so they could understand every line of code added by a staff engineer? This girl. Was it interesting? Yes. Did I need to do all that during that sprint? No, not really. Now, if I see a curiosity trap, I look at my checklist, talk to inner Sia about how much time we have, and respond accordingly. If I’m not involved in the original solution, I can revisit it later, ask questions, and maybe even suggest a refactor (rare in my case, but who doesn’t like refactoring!)
 
 ### Focus
 
@@ -41,7 +43,7 @@ Now that we are saying no to things that don’t fit in our priority list e.g. f
 
 ### Timebox
 
-This is the big one for me. Because you know when you think you’re so close to solving a problem you’ve been dialed in on; so you try that one other thing and pretty soon it’s been five hours? Yeah - my curious self struggles with this one the most. Not only do we block out time to focus, but my manager taught me about timers. Yes - like when you bake (which sidebar - I found a cookie I forgot I had left from the last time I baked in the kitchen and a Sia was SO HAPPY). She’s used it as a strategy to time tasks AND move on. Even if it’s not done. Why?
+This is the big one for me. Because you know when you think you’re so close to solving a problem you’ve been dialed in on; so you try that one other thing and pretty soon it’s been five hours? Yeah - my curious self struggles with this one the most. Not only do we block out time to focus, but my manager taught me about timers. Yes - like when you bake (which sidebar - I found a cookie I forgot I had left from the last time I baked in the kitchen and a Sia was SO HAPPY :blush:). She’s used it as a strategy to time tasks AND move on. Even if it’s not done. Why?
 
 - It forces you to be mindful of your choices for how to solve a problem when that’s all the time you have
 - If you can’t figure it out in that timeframe, share your progress with others so they can take a shot at it too. It makes you better at communicating what you’ve tried, and you find some knowledge gaps! Worst case scenario, you walk away, work on and make progress on another task, and come back with fresh eyes to help you solve the hard one
@@ -49,4 +51,4 @@ This is the big one for me. Because you know when you think you’re so close to
 
 It’s been a month or so, and I can feel the progress of these changes. I’ve been contending with a lot of other circumstances I can’t control so it feels good to see the results starting to show. It doesn’t always feel good to let go in the moment, but almost all the time - it’s been worth it. You have to be ok with asking questions and saying I don’t know (which I acknowledge can also be hard for folks). While this is not my problem, I’ve been learning how to ask better questions. I’m also catching myself more when having conversations and working on tasks with the timeboxing. I’d also recommend having these gap analyses year round with your teammates and manager (if you trust them, again I realize not everyone has this luxury), and not just during performance review seasons. Because we talked about this in 2022, and in 2023, I’m able to track my own progress and get more pointed feedback.
 
-All of this to say, do it scared. Like one of my favorite humans and leaders - Tashay - has taught me, name the slump so you can work through it. And as always, I hope you dance :dancer: :blue_heart:
+All of this to say, do it scared. Like one of my favorite humans and leaders - [Tashay](https://www.linkedin.com/in/tashay-green) - has taught me, name the slump so you can work through it. And as always, I hope you dance :dancer: :blue_heart:
