@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   Sia's data analytics engineering and growth online hub.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://blog.siawayforward.com'
+url: https://blog.siawayforward.com
 
 github:
   username: siawayforward # change to your github username
