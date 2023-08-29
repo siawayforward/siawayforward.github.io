@@ -121,7 +121,7 @@ We are all driven by different incentives in the workplace and sometimes, we may
 
 If you just realized you are in this post and you don’t like it, I’m sorry. It’s a hard reality to navigate and change, but it’s doable. I pray you have enough options, strength, and a support system to make the move that serves you best. And if you have to stay put for a little while, I’m rooting for you to find enough pockets of sunshine to keep you going until you can make your move like Andy Dufresne chipping away behind that poster :fist_raised:
 
-Until next time, happy Fall to all my sports fans out there :blue_heart: :green_heart: :celebration:
+Until next time, happy Fall to all my sports fans out there :blue_heart: :green_heart:
 
 ![a GIF of the Minnesota Lynx dancing after they beat the Las Vegas Aces"](/assets/img/minnesota-lynx-jump-on-it.gif)
 
