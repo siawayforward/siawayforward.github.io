@@ -117,7 +117,7 @@ We are all driven by different incentives in the workplace and sometimes, we may
 
   ![a GIF of Mariah Carey saying Imma do the best with what I got"](/assets/img/mariah-carey-doing-the-best.gif)
 
-- To point number two, you are allowed to feel <//insert negative emotion here> about a situation, BUT you can’t let that stagnate you from moving towards a better outcome the best way you know how. If the resentment > the effort to learn and protect yourself, pivot my friend.
+- To point number two, you are allowed to feel <<insert negative emotion here>> about a situation, BUT you can’t let that stagnate you from moving towards a better outcome the best way you know how. If the resentment > the effort to learn and protect yourself, pivot my friend.
 
 If you just realized you are in this post and you don’t like it, I’m sorry. It’s a hard reality to navigate and change, but it’s doable. I pray you have enough options, strength, and a support system to make the move that serves you best. And if you have to stay put for a little while, I’m rooting for you to find enough pockets of sunshine to keep you going until you can make your move like Andy Dufresne chipping away behind that poster :fist_raised:
 
