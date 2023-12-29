@@ -50,6 +50,6 @@ While I love ambition and have embraced that about myself since I was a teen, I 
 
 It will likely never just be based on my view of the world. There will be influences from my favorite humans and inspiring achievers (insert the person who asked this question on that list here!), but we shall see. So that's it. I'm going to keep doing what I can with what I got to be the best version of myself I can be - for me and those around me. That's my current definition of "The Best", Mark. Sorry for the long road there :joy:
 
-Until next time, thanks for indulging this very different from usual blog post. A bit of a ramble, but I hope it made sense. And pray for the Detroit Pistons. As of the typing of this last sentence, they have lost their 28th straight game :sob:
+Until next time, thanks for indulging this very different from usual blog post. A bit of a ramble, but I hope it made sense. And pray for the Detroit Pistons. As of the typing of this last sentence, they have lost their 28th straight game :sob: :sob:
 
 <img src="/assets/img/pistons-losing-record.jpg" alt="an image showing text headline that the Detroit Pistons set the losing streak record at 27 games with a picture of a man being pensive -it is the head coach of the team, Monty Williams" width="400" height="200"/>
