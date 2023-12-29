@@ -2,7 +2,7 @@
 layout: post
 title:  "The Best or Good At It?"
 date:   2023-12-28 22:33:00 -0600
-categories: career-growth, ramblings
+categories: career-growth ramblings
 ---
 
 This is going to be fun. It is a jetlagged response to one of my favorite people on the planet :joy:. [Mark Thompson](https://twitter.com/marktechson), a very talented and kind human I have the honor of calling my big brother, who asked this question a few weeks ago.
