@@ -12,7 +12,7 @@ corporate America at the same time (again). Given the slight advantage I have on
 
 ### Pre-work on yourself
 
-![Scar from The Lion King singing "Be prepared" with the hyenas](https://thumbs.gfycat.com/FearlessFrenchDegus-size_restricted.gif)
+![Scar from The Lion King singing "Be prepared" with the hyenas](/assets/img/scar-be-prepared-image.gif)
 
 Listen to Scar on this one. That's the only time we might take this brother's side over Mufasa.
 
