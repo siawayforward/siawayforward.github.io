@@ -52,6 +52,6 @@ We established there are two humans talking and evolving right? As you meet this
 
 Please know you don't need to have one mentor. You can be a community mentee, I consider myself one! It can be such a daunting task when you think you have to *find* a mentor. Your co-worker, a former or current classmate, a boss - anyone whose intentions you trust for your career path (tech or not) can contribute to your adventure. So if you haven't found a mentor yet, you can still use these tips to network in the future!
 
-![Jasmine Masters getting ready for the runway on RuPaul's Drag Race with the caption "You stay ready, you ain't got to get ready"](https://worldofwonder.net/wp-content/uploads/2019/01/46-Jasmine.gif)
+![Jasmine Masters getting ready for the runway on RuPaul's Drag Race with the caption "You stay ready, you ain't got to get ready"](/assets/img/jasmine-masters-stay-ready.gif)
 
 And on that note, good night and good light :tada:
