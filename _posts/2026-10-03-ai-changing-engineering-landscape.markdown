@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Checking the Math I Didn't Write is Going"
-date:   2025-10-03 00:18:45 -0500
+date:   2026-10-03 00:18:45 -0500
 categories: career-growth, engineering
 ---
 
