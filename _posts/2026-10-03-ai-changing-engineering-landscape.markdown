@@ -2,7 +2,7 @@
 layout: post
 title:  "How Checking the Math I Didn't Write is Going"
 date:   2026-10-03 00:18:45 -0500
-categories: career-growth, engineering
+categories: career-growth engineering
 ---
 
 _It has been over two years since I last wrote a post, so be kind if you happen to make it onto this page. I wrote this essay on a whim as part of [this The Pragmatic Engineer essay challenge](https://blog.pragmaticengineer.com/how-software-engineering-is-changing-an-essay-challenge/) originally submitted on October 3rd, 2026. It was therapeutic, and got me back to doing something I enjoy. I hope it's worth your time, and thank you :)_
